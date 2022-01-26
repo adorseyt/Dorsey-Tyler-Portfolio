@@ -10,6 +10,9 @@ While I've built a lot of dashboards, I have been asked (more than once) if it's
 # Portfolio
 Below is a sample of my work.
 
+## Tutorial
+<div class="flourish-embed flourish-chart" data-src="visualisation/8529861"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Assignment 1
 
 ## Final Project
