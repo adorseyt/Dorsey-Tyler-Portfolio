@@ -13,7 +13,7 @@ This bar chart represents the countries' debt as a percentage of their total GDP
 <br>
 
 ### Snapshot Map
-Another way to understand nations' debt is to take a snapshot of a year (2017, as used for the OECD bar chart) and provide a chrolopleth map. In this visulization, countries that had a high debt-to-GDP ratios are shown in red. Countries that were not included in the dataset have been greyed out. Hover any country to see thei debt-to-GDP ratio.
+Another way to understand nations' debt is to take a snapshot of a year (2017, as used for the OECD bar chart) and provide a chrolopleth map. In this visulization, countries that had a high debt-to-GDP ratios are shown in red. Countries that were not included in the dataset have been greyed out. Hover any country to see their debt-to-GDP ratio.
 <br>
 <div class="flourish-embed flourish-map" data-src="visualisation/8549130"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
