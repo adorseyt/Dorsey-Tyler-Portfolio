@@ -21,9 +21,14 @@ Is the visualization accurate, reliable, and valid? Is it representing what it s
 ### Intuitiveness
 Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instrcutions on how to interpret it?
 
-
 ### Aesthetics
 Is it interesting or enjoyable to look at? Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at? 
 
 ### Engagement 
 Does it lead the audience to learn more about the topic? Does it inspire the audience to talk about the data or share it with others?
+
+## Step 3: Wireframe a Solution
+
+## Step 4: Test the Solution
+
+## Step 5: Build the Solution
