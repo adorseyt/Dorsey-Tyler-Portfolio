@@ -54,7 +54,7 @@ However, the question of how much effort it takes to understand what's being pre
 
 The y-axis is also a hindrance to percpetability. It has to convey a lot of information and needs the title (located to the side, so a large distance for the eye) to be understood. If the y-axis was more clear, the title could be leveraged to convey a message; what is the takeawy here? What we can eventually see is that Albania is on par with its neighbors in reducing their aid dependency though that may be plateauing or even reversing in the 2010's. Perhaps a double lined y-axis would help? Something like "Aid Dependency: Official Development Assistance received as a percent of Gross National Income". This is going to be an area of particular experimentation in Step 3.
 
-### Truthfulness
+### Truthfulness - 8
 <i>Is the visualization accurate, reliable, and valid? Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisons that aren't correct?</i>
 
 The visualization uses data from a properly cited and reliable source - the World Bank is considered a premiere source of this information, and has safeguards to ensure that the metrics are consistent across countries.The labels are exact replicas of how the data is described by the source, making it easy to replcate and compare to other visualizations from the same source. I believe that the data is presented holistically, and while I've noted that the citation could be improved for accessibility, I don't consider it a question of truthfulness. 
@@ -64,16 +64,32 @@ However, the extent to which the comparisons were correct wasn't readily apparen
 ![Aid Dependency - Recreation](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Recreate%201%20-%20Albania%20Aid%20Dependency.PNG)
 <sup>Made with <a href="https://flourish.studio">Flourish</a></sup>
 
-https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Recreate%201%20-%20Albania%20Aid%20Dependency.PNG
+If I'm using the same source, with the same series and same scope, how could this be? How is it that the overall shape of Serbia's trajectory be the same, but scaled so differently? I don't have a full answer; this is either a question of misrepresentation, corruption of the computer-generated visualization, or that the data has been updated in WDI but not ITC. In any case, because I'm not able to fully verify <i>even the categories I'm able to recreate</i> are exactly the same data as presented, I have to dock the truthfulness here. Because of the ambiguity of the issue, I cannot say for certain what an appropriate remedy would be, except ensuring that whenever possible data should be connected to a live source or an extract that is appropriately dated. 
 
-### Intuitiveness
-Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instrcutions on how to interpret it?
+### Intuitiveness - 7
+<i>Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instructions on how to interpret it?</i>
 
-### Aesthetics
-Is it interesting or enjoyable to look at? Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at? 
+Because I had previous experience with this particular visualization (and the data behind it), I sought other perspectives to get insight on the chart's immediate intuitiveness. I sought the same people who would eventually provide feedback to my solution, and I feel they closely match the site's intended audience. To an individual with strong analytic and quantitative backgrounds, but are seeing it fresh and may not have any particular context for the region, was this visualization intuitive? 
 
-### Engagement 
-Does it lead the audience to learn more about the topic? Does it inspire the audience to talk about the data or share it with others?
+They highlighted first and foremost the y-axis. They originally had no idea what the axis label meant, and because the title was off to the side it took them a few minutes to put them together. This can be improved with a more explicit y-axis. They initially misinterpretated the information - believing the line for Serbia was actually Albania - which can be attributed to the busy nature of the chart and the similar color scheme. When Albania was identified, the fact the it's layered below the other lines made it near impossible to glean specific values; instead the takeaway was "it's in that mushy group, right?". In addition, because this visualization is part of a computer-generated templates used for every country, the audience could not see from anywhere on the chart that Albania was the focus. As mentioned, bringing Albania to the forefront, removing the clutter within the lines, and reducing the color use would help here. 
+
+The chosen chart type certainly helps the intuitiveness of this chart. It was immediately clear to the audience that this was a metric that changed over time, and that it tended to decrease and then plateau. For this reason, the chart was given a stronger score in this area. However, when asked about the main takeaway, they were lukewarm. "It's a line chart about aid dependency, and I guess Albania is there. Am I supposed to know anything else?". With a cleaner y-axis, the title could be better leveraged to convey a strong narrative message. How has Albania's performance been, and what does this mean compared to its neighbors?
+
+### Aesthetics - 7
+<i>Is it interesting or enjoyable to look at? Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at? </i>
+
+This chart is not what one would consider especially beautiful. It functions well as a chart in other aspects, but it wouldn't be winning any design awards. While the original authors may decide that is not their intention, it's important that visualiztions provide a level of appeal that invites users to engage with it. 
+
+The chart could be improved with a different or reduced color scheme - it looks like they've used the generic palatte found in excel and other interfaces. While the colors aren't necessarily bad, moving away from them shows thought; what do colors convey to the intended cultural audience, what prior knowledge is the audience bringing with them? For example, this visualization categorizes countries and there are precedents to color; China is usually presented in red when compared to a blue United States. Albanian audiences tend to associate the country with dark red, as seen on their flag. However, because this is intended for an international audience and red may have other connotations it may not be the best choice here.
+
+There are other aspects where moving away from the default settings could have conveyed thoughtfulness and made the chart pleasing: the typeface & font, lighter tones for the axes, and a different organization of the information in the key. I will be placing particulr focus on these areas when prototyping. However, the chart must have credit for not being overly cluttered, clear of extraneous annotations, and within the current expectations for a site of this kind. We can push for better aesthetics in every data visualization, but this one does not stick out - for better or worse - among many of its peers.
+
+### Engagement - 4
+<i>Does it lead the audience to learn more about the topic? Does it inspire the audience to talk about the data or share it with others?</i>
+
+The static nature of this presentation certainly hinders an audience's ability to engage with it. There are many platforms that allow data visualizations to support pop-outs. This would be particularly useful here where the lines tend to group. This also allows for more freedom with color and labeling. In this case, we want Albania to be the focus, but it can be lost among all the differentiation between countries. With a pop-out, the comparison nations can be safely relegated to the background with a assurance that anyone interested in a particular line can hover over it for more information.
+
+Another barrier to engagement (especially in the form of sharing) here is the lack of a clear message. It was my original issue with this chart. Let's consider two scenarios: this chart is being used to support a strong position the author intends to convey, or this chart is being used to give base information that is adaptable to the audience's own purposes. I expect that my original goal in seeking this chart was the former, while the author's intentions lean toward the latter. However, both can leverage design principles to make messaging clear and improve engagment. For my purposes, I can add annotations that denote when the civil conflict occured alongside a strong message title emphasizing how far Albania has come in a relatively short time. For general audiences, ITC can allow users to see the extent of the change in aid dependency. "Albania has become X% less dependent since 2002" is a message neutral to all arguments beyond what the visualization is conveying, and is easily implemented with dynamic text. I will be playing with these two purposed in my redesign.
 
 ## Step 3: Wireframe a Solution
 
