@@ -61,6 +61,10 @@ The visualization uses data from a properly cited and reliable source - the Worl
 
 However, the extent to which the comparisons were correct wasn't readily apparent until I sought to reproduce the graph. With the exception of the aforementioned ambiguity, the country trajectories appear correct and a labeled correctly. However, when placing the same dataset into my own timeline, I found inconsistencies in the data presentation that can't be easily explained. Serbia is the most identifiable example; in the original visualiztion the country's aid dependence hovers just below 14%, but when plotted independently it's much closer to 12%:
 
+![Aid Dependency - Recreation](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Recreate%201%20-%20Albania%20Aid%20Dependency.PNG)
+<sup>Made with <a href="https://flourish.studio">Flourish</a></sup>
+
+https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Recreate%201%20-%20Albania%20Aid%20Dependency.PNG
 
 ### Intuitiveness
 Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instrcutions on how to interpret it?
