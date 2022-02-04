@@ -12,6 +12,7 @@ I have chosen to work specifically with ITC's Aid Dependency timline, which desc
 
 
 ![Aid Dependency - ITC](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/ITC%20Chart%20-%20Albania%20Aid%20Dependency.PNG?raw=true)
+<sup>Source: <a href="https://www.intracen.org/country/albania/income/">International Trade Centre</a> - Accessed February 2022</sup>
 
 ## Step 2: Critique
 
