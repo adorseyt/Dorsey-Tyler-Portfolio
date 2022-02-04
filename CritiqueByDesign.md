@@ -32,7 +32,7 @@ The decision to describe aid dependancy as defined is a great indicator for the 
 
 However, how useful is the chosen x-axis here? The selection of dates shown is not an objective issue with completeness. But when I ask myself "What do I wish I could see?" I can't help but expand the scope beyond the 10 years chosen. In addition to my use as a narrative surrounding the nation's internal context, there's the simple fact that 2012 was a long time ago. WDI's data is available for all of these categories up to 2019; why would even general information-minded readers not want more recent data? For that reason, the scope has impacted the usefulness score. 
 
-### Completeness - 2
+### Completeness - 3
 <i>Does the visualization have everything necessary to make it understandable?</i>
 
 This visualization suffers primarily in this aspect; there are categories that are not completely defined, inclusions that should be omitted, and exclusions that are essential to the interpretation of the data. 
@@ -43,11 +43,19 @@ The notes below the visualization provide sufficient information to access the b
 
 However, there are other elements that should be taken into account. The original timeline has an appropriate x-axis label, a y-axis label that is explained in the title, and appropriate grids lines that allow referencing without being overly cluttered. Excluding the issues described above, the key allows users to match lines with their respective countries. At the very least, Albania is identifiable which is the most important category.
 
-### Perceptability
-Can the reader understand the information with minimal effort? Is the visualization type appropriate? Does it use logical comparisons?
+### Perceptability - 5
+<i>Can the reader understand the information with minimal effort? Is the visualization type appropriate? Does it use logical comparisons?</i>
+
+One of the greatest strengths of this visualization is the use of comparisons. The countries chosen represent a logical regional context by being Albania's immediate neighbors. The outlined audience will appreciate that many nations, such as Serbia, North Macedonia, and Bosnia & Herzegovina have gone through their own recent events that may have impacted their aid dependence. Albania's economic journey could not be fairly compared to the U.S., Russia, Western Europe, or China.  
+
+The visualization type chosen is so appropriate that I anticipate a struggle to come up with a better general design (though I intend to try by refinining the narrative or perhaps streamlining the information). Multiple lines over a timeline is a great way to convey how this metric has changed over time, and how one's journey compares to others'. The chart conveys a strong story - that despite different origins the nations in this region have convereged on similar aid dependencies, and those dependencies are lower than before. 
+
+However, the question of how much effort it takes to understand what's being presented is where the visualization flags in this category. An immediate and simple modification would be bringing Albania to the forefront; the fact that the core country's line is layered below all other lines borders on unacceptable. The use of symbols has also greatly reduced the perceptability due to how much they obstruct many tightly-grouped lines. I can see this as a feature to improve accessibility to colorblind readers and black/white printing which still needs to be addressed, if in another way. One way to make this visualization much more perceptable would be a reduction in color. As the audience, we care most about how Albania is performing, and how that performance relates to its neighbors. We could grey out all the neighbors and highlight on Albania in a darker color. This would give the necessary information, remain colorblindness friendly, and make Albania the star of the visualization.
+
+The y-axis is also a hindrance to percpetability. It has to convey a lot of information and needs the title (located to the side, so a large distance for the eye) to be understood. If the y-axis was more clear, the title could be leveraged to convey a message; what is the takeawy here? What we can eventually see is that Albania is on par with its neighbors in reducing their aid dependency though that may be plateauing or even reversing in the 2010's. Perhaps a double lined y-axis would help? Something like "Aid Dependency: Official Development Assistance received as a percent of Gross National Income". This is going to be an area of particular experimentation in Step 3.
 
 ### Truthfulness
-Is the visualization accurate, reliable, and valid? Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisons that aren't correct?
+<i>Is the visualization accurate, reliable, and valid? Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisons that aren't correct?</i>
 
 ### Intuitiveness
 Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instrcutions on how to interpret it?
