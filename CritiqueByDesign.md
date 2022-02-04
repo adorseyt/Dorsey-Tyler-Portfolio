@@ -57,6 +57,11 @@ The y-axis is also a hindrance to percpetability. It has to convey a lot of info
 ### Truthfulness
 <i>Is the visualization accurate, reliable, and valid? Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisons that aren't correct?</i>
 
+The visualization uses data from a properly cited and reliable source - the World Bank is considered a premiere source of this information, and has safeguards to ensure that the metrics are consistent across countries.The labels are exact replicas of how the data is described by the source, making it easy to replcate and compare to other visualizations from the same source. I believe that the data is presented holistically, and while I've noted that the citation could be improved for accessibility, I don't consider it a question of truthfulness. 
+
+However, the extent to which the comparisons were correct wasn't readily apparent until I sought to reproduce the graph. With the exception of the aforementioned ambiguity, the country trajectories appear correct and a labeled correctly. However, when placing the same dataset into my own timeline, I found inconsistencies in the data presentation that can't be easily explained. Serbia is the most identifiable example; in the original visualiztion the country's aid dependence hovers just below 14%, but when plotted independently it's much closer to 12%:
+
+
 ### Intuitiveness
 Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instrcutions on how to interpret it?
 
