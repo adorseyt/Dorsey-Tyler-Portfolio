@@ -8,11 +8,13 @@ These insights will provide a roadmap for our goals in the redesign. For example
 ## Step 1: Identifying an Existing Data Visualization
 For this exercise, I have selected a chart from the <a href="https://www.intracen.org/country/Albania/">International Trade Centre's Country Profile for Albania</a>. The work of ITC was integral to my previous work in understanding Albania's long-term economic strategy, but at the time I had felt the generated visualizations struggled to easily convey information to my end readers. In the end, I opted to describe the takeaways from the data over leveraging the charts themselves. This exercise gave me a wonderful opportunity to ask what I would do with another chance to take this on.
 
-I have chosen to work specifically with ITC's Aid Dependency timline, which describes how dependent on foreign aid the Albanian economy has been compared to other nations in the region. Here, aid dependency is calculated as how much official development assistance (ODA) the country received as a proportion of their gross national income (GNI). 
-
+I have chosen to work specifically with ITC's Aid Dependency timeline, which describes how dependent on foreign aid the Albanian economy has been compared to other nations in the region. Here, aid dependency is calculated as how much Official Development Assistance (ODA) the country received as a proportion of their Gross National Income (GNI). 
 
 ![Aid Dependency - ITC](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/ITC%20Chart%20-%20Albania%20Aid%20Dependency.PNG?raw=true)
 <sup>Source: <a href="https://www.intracen.org/country/albania/income/">International Trade Centre</a> - Accessed February 2022</sup>
+
+### Discussion
+While the core data for this visualization was readily available from the <a href="https://databank.worldbank.org">World Bank World Development Indicators DataBank</a>
 
 ## Step 2: Critique
 
