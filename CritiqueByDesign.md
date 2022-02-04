@@ -11,7 +11,7 @@ For this exercise, I have selected a chart from the <a href="https://www.intrace
 I have chosen to work specifically with ITC's Aid Dependency timline, which describes how dependent on foreign aid the Albanian economy has been compared to other nations in the region. Here, aid dependency is calculated as how much official development assistance (ODA) the country received as a proportion of their gross national income (GNI). 
 
 
-
+![Aid Dependency - ITC](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/ITC%20Chart%20-%20Albania%20Aid%20Dependency.PNG?raw=true)
 
 ## Step 2: Critique
 
