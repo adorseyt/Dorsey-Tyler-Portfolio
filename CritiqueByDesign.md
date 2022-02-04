@@ -21,12 +21,27 @@ In addition, there are a number of categories with ambiguous meanings or incorre
 These data issues will be discussed further in Step 2, but another omission I considered was in the timeline of data presented. This speaks more about the intended narrative that the chart is meant to support, and can be up to interpretation. I believe that ITC's intention is to show the general trajectory of aid dependence for all regions and nations, and such a 2002-2012 10-year period is sufficient. However, I approached this with a focus specifically on Albania, and considered the inclusion of key dates specific to the country and how it would have a more comprehensive narrative. Albania suffered an economic collapse that resulted in a quasi-civil war in 1997. While it may be taking liberties, I also want to explore how this chart can tell that story. What impact did that collapse have on aid and income, and how has Albania's economy reacted compared to other nations who did not have that event? For this reason I will wireframe some ways playing with that idea and not.
 
 ## Step 2: Critique
+In this step, we're focused on evaluating the data visualization on a number of aspects that can make it successful. The chart will be assigned a score for each aspect category, as well as a description of elements that could have improved the score.
 
-### Usefulness
-Is the visualiztion useful to the intended audience? Does it communicate valuable information?
+### Usefulness - 6
+<i>Is the visualiztion useful to the intended audience? Does it communicate valuable information?</i>
 
-### Completeness
-Does the visualization have everything necessary to make it understandable?
+In order to evaluate usefulness, we first have to define the intended audience and surmise their need for this information. I've discussed how this graph didn't meet my original purpose, namely how well Albania has been able to reduce their aid dependency since the civil crisis. However, this hyper-specific study question does not objectively describe the intended audience. Instead, ITC publishes these overviews for development and financial experts to get a quick understanding of a country's economy contextaulized within the region. They are primarily used to inform intended actions and interventions. 
+
+The decision to describe aid dependancy as defined is a great indicator for the intended audiences, especially development interventionists. The information itself is useful and by contextualizing Albania's performance on this metric as relative to its neighbors allows readers to easily understand what baselines can be expected. Seeing that Albania often performs in the middle of the pack here is in itself a useful piece of information.
+
+However, how useful is the chosen x-axis here? The selection of dates shown is not an objective issue with completeness. But when I ask myself "What do I wish I could see?" I can't help but expand the scope beyond the 10 years chosen. In addition to my use as a narrative surrounding the nation's internal context, there's the simple fact that 2012 was a long time ago. WDI's data is available for all of these categories up to 2019; why would even general information-minded readers not want more recent data? For that reason, the scope has impacted the usefulness score. 
+
+### Completeness - 2
+<i>Does the visualization have everything necessary to make it understandable?</i>
+
+This visualization suffers primarily in this aspect; there are categories that are not completely defined, inclusions that should be omitted, and exclusions that are essential to the interpretation of the data. 
+
+The most overwhelming issues seem to be in the key. Greece is included in the key despite having no data presented, and there is an undefined dotted green line that cannot be interpreted (or reproduced) with the information provided. My feeling is that these charts are computer generated for each country, which can explain some of these errors. 
+
+The notes below the visualization provide sufficient information to access the base dataset, though it could be improved with a link to either the WDI DataBank with selections chosen or to a table with the same data. This would have greatly facilitated my ability to verify the data. In addition, the note's reference to the ITC regional groupings is not sufficient to understand this category in the key. It took a lot of looking through their site to understand what Region ITC considers Albania in, and even more to understand what nations that region contains. This could be improved with a link to their regional descriptions, or more comprehensively with a full description of the calculation methodology - what countries were included and how was the average calculated? The fact that I cannot recreate this category belies the severity of this issue, but also restricts my ability to provide specific feedback - my suggestions reflect my interpretation of what they were going for, but we can't verify that the interpretation is correct.
+
+However, there are other elements that should be taken into account. The original timeline has an appropriate x-axis label, a y-axis label that is explained in the title, and appropriate grids lines that allow referencing without being overly cluttered. Excluding the issues described above, the key allows users to match lines with their respective countries. At the very least, Albania is identifiable which is the most important category.
 
 ### Perceptability
 Can the reader understand the information with minimal effort? Is the visualization type appropriate? Does it use logical comparisons?
