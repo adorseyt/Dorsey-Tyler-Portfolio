@@ -62,6 +62,7 @@ The visualization uses data that is properly cited and reliable. The World Bank 
 However, the extent to which the comparisons were correct wasn't readily apparent until I sought to reproduce the graph. With the exception of the aforementioned ambiguity, the country trajectories appear correct and are labeled correctly. However, when placing the same dataset into my own timeline, I found inconsistencies in the data presentation that can't be easily explained. Serbia is the most identifiable example; in the original visualization, the country's aid dependence hovers just below 14%, but when plotted independently it's much closer to 12%:
 
 ![Aid Dependency - Recreation](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Recreate%201%20-%20Albania%20Aid%20Dependency.PNG)
+
 <sup>Made with <a href="https://flourish.studio">Flourish</a></sup>
 
 If I'm using the same source, with the same series and same scope, how could this be? How is it that the overall shape of Serbia's trajectory be the same, but scaled so differently? I don't have a full answer; this is either a question of misrepresentation, corruption of the computer-generated visualization, or that the data has been updated in WDI but not ITC. In any case, because I'm not able to fully verify <i>even the categories I'm able to recreate</i> are exactly the same data as presented, I have to dock the truthfulness here. Because of the ambiguity of the issue, I cannot say for certain what an appropriate remedy would be, except ensuring that whenever possible data should be connected to a live source or an extract that is appropriately dated. 
@@ -101,6 +102,7 @@ For these reasons, I experimented with streamlining the data to core takeaways. 
 I presented the formats, alongside a facsimile of the original, to my reviewers:
 
 ![Aid Dependency - Wireframe Exercise](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Wireframe.PNG)
+
 <sup>Made with <a href="www.figma.com">Figma</a></sup>
 
 ## Step 4: Test the Solution
