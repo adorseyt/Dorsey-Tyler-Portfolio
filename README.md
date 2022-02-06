@@ -12,6 +12,6 @@ Below is a sample of my work.
 
 ## Assignment 2: [Online Visualization Tool Study](/OnlineVizStudy.md)
 
-## Assignment 3 & 4: [Critique by Design Exercise](/CritiquebyDesign.md)
+## Assignment 3 & 4: [Critique by Design Exercise](/CritiqueByDesign.md)
 
 ## Final Project
