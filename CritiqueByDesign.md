@@ -95,6 +95,9 @@ Another barrier to engagement (especially in the form of sharing) here is the la
 The critique allowed us to identify aspects of this chart that could be improved, so in this step we'll work on implementing that feedback. In this section, I will be sketching and prototyping multiple solutions that address the two proposed narratives, an extended timeline, more specific citations, explicit y-axis labels and stronger title messaging, better visability through the us of color, and experimentation with dynamic formats.
 
 The first question I tackled was whether a different chart type could improve this visualization. While I celebrated the timeline's clarity for this series, I still wanted to experiment with other ways to visualize the data. 
+![Aid Dependency - Wireframe Exercise](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Wireframe.PNG)
+<sup>Made with <a href="www.figma.com">Figma</a></sup>
+
 
 A major divergence from the original was in the scope. Would a 1996-2019 or even 2009-2019 presentation be more useful? One addresses my personal mission to show Albania's journey through the civil war, while the other maintains the scope of 10 years, but brings it to relevency. 
 
