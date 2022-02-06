@@ -114,12 +114,11 @@ Format 3's attempt at more information received lukewarm responses: "The grid ma
 
 ## Step 5: Build the Solution
 
-### First Prototype
-We agreed that the original chart type was the most effective, but they still wanted to see a mockup of what that would look like before giving final feedback. I used <a href="https://app.flourish.studio">Flourish</a>, because of its high level of customization and easily enbedded charts that can support dynamic text and pop-outs.
+We agreed that the original chart type was the most effective, so I focused on adding the other elements identified in Step 2. I used <a href="https://app.flourish.studio">Flourish</a>, because of its high level of customization and easily enbedded charts that can support dynamic text and pop-outs.
 
-I presented the following prototype to my reviewers. For my purposes, I maintained the new color scheme, reduced the specificity of the y-axis ticks, and placed the x-axis directly below (instead of between) the year they reference. I switched out the key for Flourish's default line labels, and opted to give a title and subtitle that explicitly outlines the core focus and takeaways. I actively wanted Albania to appear in the title, for there to be a sense of direction (is the problem getting better or worse?), and that any changes could be automated for mass production. While I thought to make the y-axis more explicit, I actually chose to go in the opposite direction by simplifying it and adding the definition of the metric as a footnote. I added to the original citation a link to the databank and when the data was captured. I also leveraged Flourish's popouts, which makes it more interactive.
+I maintained the new color scheme, reduced the specificity of the y-axis ticks, and placed the x-axis directly below (instead of between) the year they reference. I switched out the key for Flourish's default line labels, and opted to give a title and subtitle that explicitly outlines the core focus and takeaways. I actively wanted Albania to appear in the title, for there to be a sense of direction (is the problem getting better or worse?), and that any changes could be automated for mass production. While I thought to make the y-axis more explicit, I actually chose to go in the opposite direction by simplifying it and adding the definition of the metric as a footnote. I added to the original citation a link to the databank and when the data was captured. I also leveraged Flourish's popouts, which makes it more interactive.
 
-Below is the prototype presented to the reviewers:
+The new version is presented below:
 <div class="flourish-embed flourish-chart" data-src="visualisation/8581708"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
