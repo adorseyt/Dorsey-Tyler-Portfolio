@@ -61,7 +61,7 @@ The visualization uses data that is properly cited and reliable. The World Bank 
 
 However, the extent to which the comparisons were correct wasn't readily apparent until I sought to reproduce the graph. With the exception of the aforementioned ambiguity, the country trajectories appear correct and are labeled correctly. However, when placing the same dataset into my own timeline, I found inconsistencies in the data presentation that can't be easily explained. Serbia is the most identifiable example; in the original visualization, the country's aid dependence hovers just below 14%, but when plotted independently it's much closer to 12%:
 
-![Aid Dependency - Recreation](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Recreate%201%20-%20Albania%20Aid%20Dependency.PNG)
+![Aid Dependency - Recreation](Recreate%201%20-%20Albania%20Aid%20Dependency.PNG)
 
 <sup>Made with <a href="https://flourish.studio">Flourish</a></sup>
 
@@ -101,7 +101,7 @@ For these reasons, I experimented with streamlining the data to core takeaways. 
 
 I presented the formats, alongside a facsimile of the original, to my reviewers:
 
-![Aid Dependency - Wireframe Exercise](https://github.com/adorseyt/Dorsey-Tyler-Portfolio/blob/main/Wireframe.PNG)
+![Aid Dependency - Wireframe Exercise](Wireframe.PNG)
 
 <sup>Made with <a href="www.figma.com">Figma</a></sup>
 
