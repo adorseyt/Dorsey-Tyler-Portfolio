@@ -46,6 +46,7 @@
 3. "IUCN described to evaluated rate of vertebrates"
 
 4. "2.5% annual decline means 25% loss in 10 years, 50% loss in 20, and 100% in 40. So when was Year 0?"
+<div class="flourish-embed flourish-chart" data-src="visualisation/8679176"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 5. "928 entolomologists in the U.S. compared to 91,000 known species and 114,000 estimated total species."
 
