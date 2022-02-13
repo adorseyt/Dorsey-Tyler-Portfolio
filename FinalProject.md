@@ -38,8 +38,10 @@
 
 ## Visualization Sketches
 1. "By collective mass, insects outweigh humans 17 to 1."
+![Viz 1 - Insects Outweigh Humans](Viz%201%20-%20Insects%20Outweigh.png)
 
 2. "Coleoptera are 40% of all insect species, and 30% of all animal species."
+![Viz 2 - Coleoptera 30% of all Species](Viz%202%20-%20Coleptera%20Percent.png)
 
 3. "IUCN described to evaluated rate of vertebrates"
 
