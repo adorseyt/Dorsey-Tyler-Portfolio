@@ -37,4 +37,6 @@
 - By using apps like INaturalist, the public can take geo-tagged pictures of the insects they see in their area. Thousands of volunteers help to identify and catelogue the species, creating a dataset for researchers. 
 
 ## Data Sources
-All base data and their original sources used in this presentation have been compiled <a href = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwQUSjl-vacpBKPTuvZqmtCZpeB3ypN27cSAP9A1EXoF5qmf0l4KKrlSP3kas5Jq341mdjhrMWH--B/pubhtml"> here</a>.
+All base data and their original sources used in this presentation have been compiled <a href = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwQUSjl-vacpBKPTuvZqmtCZpeB3ypN27cSAP9A1EXoF5qmf0l4KKrlSP3kas5Jq341mdjhrMWH--B/pubhtml"> here</a>. 
+
+This presentation relies heavily on the work of IUCN and their <a href="https://www.iucnredlist.org/">Red List of Threatened Species</a>, one of the most comprehensive resources for conservationists worldwide. It also cites the work of Francisco Sanchez-Bayo, who has made it a personal mission to bring insect loss into public attention. His work with Kris A.G. Wyckhuys on <a href="https://insect-respect.org/fileadmin/images/insect-respect.org/Rueckgang_der_Insekten/2019_Sanchez-Bayo_Wyckhuys_Worldwide_decline_of_the_entomofauna_A_review_of_its_drivers.pdf">Worldwide Decline of Entomofauna</a>
