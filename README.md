@@ -14,4 +14,5 @@ Below is a sample of my work.
 
 ## Assignment 3 & 4: [Critique by Design Exercise](/CritiqueByDesign.md)
 
-## Final Project
+## Final Project: [Final Project Wireframe](/FinalProject.md)
+
