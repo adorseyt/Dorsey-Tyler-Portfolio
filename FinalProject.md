@@ -5,21 +5,21 @@
 
 ## Project Outline
 
-### Insects are a Major Player in the Story of Biodiversity
+### Insects are a Major Player in Biodiversity
 - Insecta is by far the biggest class of the animal kingdom.
-  - Visualization: By collective mass, insects outweigh humans 17 to 1.
+  - Visualization 1: By collective mass, insects outweigh humans 17 to 1.
 - While there has been focus on bees and butterflies,, beetles and weevils (coleoptera) are the largest order.
-  - Visualization: Coleoptera are 40% of all insect species, and 30% of all animal species.
+  - Visualization 2: Coleoptera are 40% of all insect species, and 30% of all animal species.
 - Even if you don't care about them intrinsically, they're a vital part of the greater ecosystem.
   - Pollination, Food Source, and Waste Recycling.
 
 ### Insect Biodiversity Loss is an Untold Story with a Frightening Ending
 - Insects aren't getting the same attention as vertebrates.
   - The International Union for Conservation of Nature is the premiere database assessing the vulnerability of species, but their data on insects is severely lacking.
-  - Visualization: IUCN described to evaluated rate of vertebrates (mammals 91%, birds 100%, reptiles 87%, amphibians 87%, fishes 63%) compared to insects (1.1%). 
+  - Visualization 3: IUCN described to evaluated rate of vertebrates (mammals 91%, birds 100%, reptiles 87%, amphibians 87%, fishes 63%) compared to insects (1.1%). 
 - The information we do have paints a grim picture.- Visualization: 19% of assessed insects are threatened, compared to 18% of vertebrates.
  - A study found that insect biomass is declining an estimated 2.5% annually
- - Interactive Visualization: 2.5% annual decline means 25% loss in 10 years, 50% loss in 20, and 100% in 40. So when was Year 0?
+ - Interactive Visualization 4: 2.5% annual decline means 25% loss in 10 years, 50% loss in 20, and 100% in 40. So when was Year 0?
 
 ### What We Don't Know Matters
 - We don't understand population areas: for most species we still don't know where they're endemic, so we can't look for signs of fragmentation, a key indicator of species threat.
@@ -30,15 +30,29 @@
 
 ### Entomologists Can't Tackle the Data Problem Alone
 - We simply do not have the same manpower as other conservation specialities, takling a much bigger population with much fewer resources.
- - Visualization: 928 entolomologists in the U.S. compared to 91,000 known species and 114,000 estimated total species.
+ - Visualization 5: 928 entolomologists in the U.S. compared to 91,000 known species and 114,000 estimated total species.
 
 ### Want to Help? Meet Your Newest Instagram Model
 - We can help entomologists and conservation scientists worldwide by identifying existing species, providing essential data to map endemic regions and show trends. 
 - By using apps like INaturalist, the public can take geo-tagged pictures of the insects they see in their area. Thousands of volunteers help to identify and catelogue the species, creating a dataset for researchers. 
+
+## Visualization Sketches
+1. "By collective mass, insects outweigh humans 17 to 1."
+
+2. "Coleoptera are 40% of all insect species, and 30% of all animal species."
+
+3. "IUCN described to evaluated rate of vertebrates"
+
+4. "2.5% annual decline means 25% loss in 10 years, 50% loss in 20, and 100% in 40. So when was Year 0?"
+
+5. "928 entolomologists in the U.S. compared to 91,000 known species and 114,000 estimated total species."
 
 ## Data Sources
 All base data and their original sources used in this presentation have been compiled <a href = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwQUSjl-vacpBKPTuvZqmtCZpeB3ypN27cSAP9A1EXoF5qmf0l4KKrlSP3kas5Jq341mdjhrMWH--B/pubhtml">in a publicly-available Google Sheet</a>. 
 
 This presentation relies heavily on the work of IUCN and their <a href="https://www.iucnredlist.org/">Red List of Threatened Species</a>, one of the most comprehensive resources for conservationists worldwide. It also cites the work of Francisco Sanchez-Bayo, who has made it a personal mission to bring insect loss into public attention. His work with Kris A.G. Wyckhuys on the <a href="https://insect-respect.org/fileadmin/images/insect-respect.org/Rueckgang_der_Insekten/2019_Sanchez-Bayo_Wyckhuys_Worldwide_decline_of_the_entomofauna_A_review_of_its_drivers.pdf">Worldwide Decline of Entomofauna</a> compiles field reserach from 73 historical studies to provide a methodology for estimating insect loss. While both sources pose theories for causes of the issue, other publications like Robert R. Dunn's <a href="https://conbio-onlinelibrary-wiley-com.cmu.idm.oclc.org/doi/10.1111/j.1523-1739.2005.00078.x">Modern Insect Extinctions, the Neglected Majority</a> make compelling arguements that further research is needed before drivers can be identified confidently.
 
-Other sources are used to provide context and shed light on the barriers to research. Bar, Phillips, & Milo's <a href = "https://www.pnas.org/content/pnas/suppl/2018/07/13/1711842115.DC1/1711842115.sapp.pdf">The Biomass Distribution on Earth</a> allows us to contextualize insects not just as a taxa, but as a population whose individuals comprise the majority of animal life. Bowler, Heldbjerg, Fox, de Jong, and Bohning-Gaese's <a href="https://pubmed.ncbi.nlm.nih.gov/30912605/">Long-Term Declines of European Insectivorous Bird Populations and Potential Causes</a> will be cited for their contributions to understanding the effects of insect loss on the greater ecology, though their study would need replication for definitive conclusions. <a href = "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/">NC State University's</a> will be used to show the prevalence of Coleoptera, <a href = "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/">the Smithsonian</a> will outline the scope of species that need to be documented, and emplyment data aggregator <a href="https://www.zippia.com/entomologist-jobs/demographics/">Zippia's</a> estimate of entolomolgists will speak to the manpower of that work.
+Other sources are used to provide context and shed light on the barriers to research. Bar, Phillips, & Milo's <a href = "https://www.pnas.org/content/pnas/suppl/2018/07/13/1711842115.DC1/1711842115.sapp.pdf">The Biomass Distribution on Earth</a> allows us to contextualize insects not just as a taxa, but as a population whose individuals comprise the majority of animal life. Bowler, Heldbjerg, Fox, de Jong, and Bohning-Gaese's <a href="https://pubmed.ncbi.nlm.nih.gov/30912605/">Long-Term Declines of European Insectivorous Bird Populations and Potential Causes</a> will be cited for their contributions to understanding the effects of insect loss on the greater ecology, though their study would need replication for definitive conclusions. <a href = "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/">NC State University's BugInfo</a> will be used to show the prevalence of Coleoptera, <a href = "https://genent.cals.ncsu.edu/insect-identification/order-coleoptera/">the Smithsonian</a> will outline the scope of species that need to be documented, and employment data aggregator <a href="https://www.zippia.com/entomologist-jobs/demographics/">Zippia's</a> estimate of entolomolgists will speak to the manpower of that work.
+
+## Methods and Mediums
+The final presentation will be published with <a href="https://shorthand.com">Shorthand</a>. The final project should be a scrollable information set with a narrative and both static and interactive visualizations. 
