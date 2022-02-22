@@ -94,8 +94,35 @@ The overwhelming response was that the data was presented in interesting and eas
 There were few notes on this section... which I might attribute a bit to question fatigue. Overall, they felt the message titles made it easy to share some of the visualizations outside of the presentation, but didn't know when they'd actually want to. One said "The presentation overall is very shareable".
 
 ## Next Steps
+This section will discuss the feedback, scoring them on three criteria: Universality, Importance, Feasibility. Universal means that feedback from different responders don't contradict each other. Important is for feedback that would have tangible effects on the story and impact of the story. Feasible refers for the ability of the change to be done in the next week.
 
+<b>Add Citations - Universal, Important, Easy</b>: Citations came up multiple times from multiple respondents. It's <u>extremely</u> important, not just to avoid the confusion pitfalls that my readers found, but also for general academic integrity. It's also very simple, as all the sources used are saved in a compiled file. This action item is condsidered imperative before publication.
 
+<b>Change Language - Not Universal, Somewhat Important, Easy</b>: Using terms like "anthropogenic" and removing "impact" and the typo were mostly identified by a single respondent. However, this is fantastic feedback and will make the presentation more succint and precise. It's also a very quick fix. 
 
+<b>Change Colors on Entomologist Visualization - Not Universal, Somewhat Important, Easy</b>: One respondent said the 23,000 is hard to see in the entomologist image. This won't make or break the story, but also may help make the visualization have peak impact. It's a very easy fix.
 
+<b>Be More Explicit of Contraditions - Not Universal, Important, Medium</b>: Only one respondent pointed out that sources contradict with my narrative, and that the studies that argue causes are inconclusive is not overtly mentioned. I feel like this is an important criticism - this unmentioned contradiction could be distracting. Adding a discussion of how there is a lot of debate in the conservationist community about how much we can say about causes and effects might be a weird tangent to fit in, but I can play with it. 
+
+<b>Modify Tone - Not Universal, Important, Harder but Possible</b>: Respondents were conflicted about whether the tone was too harsh - making people feel shamed - or too leinient. It's very important to strike the right balance, though it might be difficult to do it without more study. However, I feel like there are some fixes, such as removing redundant idioms, that could have a good impact while keeping both camps happy. 
+
+<b>Bring Effects to the Top, Add More - Not Universal, Important, Very Difficult</b>: All respondents pointed out that "what does this mean for humans and other animals" was their biggest question for why they should care. Some were ok with the response that "well, we need more data to know for sure". One still wanted what we CAN say - the economic cost - brought to the top. When this was posed to other respondents, one noted "Please no, I get it's a good hook, but it's such a low note. I like the story as it currently flows". This also has the lowest feasibility; bringing it to the top is possible, but any more assertions about effect are going to come with caveats. Even if I find more sources I'm just as likely to find counter-arguements, as I found in my preliminary research. 
+
+### To-Do List
+NEED
+1. Add Citations
+2. Change Language
+3. Change Colors in Visualization
+
+NICE TO HAVE
+4. Be More Explicit in Contradictions
+5. Modify Tone
+
+UNLIKELY
+6. Bring Effects to the Top, Add More 
+
+## Final Discussion
+While it was nice to have a more complete draft to show to respondents, I do feel like it hindered the flexibility and candor in the feedback. Many of my respondents were reluctant to give anything other than praise, and when pushed one said "the last thing I want is to give you more work". If I had presented a storyboard, I think they would have felt more included in the planning process as opposed to editors of a semi-finished product. The results might also be skewed by their close relationship with me for similar reasons; given more time I would have liked to diversify my selection. 
+
+That being said, I feel like their feedback provided thoughtful and tangible action items. I'm extremely thankful for their participation, and their perspective brought insight I couldn't see alone. One key factor of design is making the audience the main character of the story. Choosing a topic I'm passionate about makes it all the more easy to get entrenched in what <i>I</i> care about. I can't, and shouldn't, be trying to get people to find insects cute and intrinsically valuable. My responders have shown me that I can motivate people to action here while thinking "...bugs are still really gross though".
 
