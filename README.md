@@ -15,6 +15,6 @@ Below is a sample of my work.
 ## Assignment 3 & 4: [Critique by Design Exercise](/CritiqueByDesign.md)
 
 ## Final Project: 
-[Part I: Final Project Wireframe](/FinalProject.md)
-[Part II: Final Project User Research](/FinalProject2.md)
+### [Part I: Final Project Wireframe](/FinalProject.md)
+### [Part II: Final Project User Research](/FinalProject2.md)
 
