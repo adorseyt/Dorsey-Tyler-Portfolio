@@ -61,13 +61,16 @@ I conducted interviews the same day the respondent completed the survey. Below i
 Below I've outlined the mean responses to each survey question, alongside any comments given about the survey during the interview:
 
 ### Were there any parts that surprised you?
-One discussed the fact the that insects to entomologists ratio is so high, one remarked on the proportion of insects to animal species. One noted "Honestly, all of it, since it's pretty much entirely new information to me. I would say the most surprising things I learned were the cost of insect loss and also just how many insects there are in relation to other animals." The final answered "No, I've been saying similar things for a while". I was happy to hear that different parts connected with different people, but am noting that none of them mentioned the call to action. I'm wondering if there's something missing there?
+One discussed the fact the that insects to entomologists ratio is so high, one remarked on the proportion of insects to animal species. One noted "Honestly, all of it, since it's pretty much entirely new information to me. I would say the most surprising things I learned were the cost of insect loss and also just how many insects there are in relation to other animals." The final answered "No, I've been saying similar things for a while". 
 
 ### Were there any parts that were unclear or confusing?
 Three of my respondents gave simple "No", one said "Nope, everything was pretty clear to me."
 
 ### Could you walk me through some of the thoughts going through your head as you read through?
 Two of the respondents replied that it was "scary", with another adding "it set off my climate anxiety a little bit. It's critical information but it makes me sad and scared to think about what is slipping through the cracks while we're scrambling to try figure out a way forward." Another respondent walked me through their emotional journey: "I was actively interested from the start because I at most had a vague idea that insects were important, specifically polinators, but I did not really understand the scale and importance of them. Lastly, when you get to the call to action, it motivated me to try and find out more and think about ways to help this specific issue." The last respondent said he was distracted by the language: "Instead of saying "Climate change and human activity have threatened much of life on Earth," I think it's more appropriate to say 'Anthropogenic climate change is threatening life on Earth. It seems like you are implying that climate change is not anthropogenic.' Also, the tone was too passive". 
+
+#### What would you like to see changed in the final version of this presentation?
+Two respondents said "nothing" and "nothing comes to mind". One respondent had this note:  "Please, please, PLEASE do not use impact as a verb. It's not. It got twisted into a verb by bureaucrats and it's like fingernails on a chalkboard to people who actually care about the English language. Also, I would put the ecological importance of insects higher in the text." Another mentioned the lack of bibliography and pointed out a typo: "Also, I think there's a typo when talking about annual loss : 'Stanford's Francisco Sanchez-Bayo Francisco Sanchez-Bayo has made it a personal mission to bring insect loss into public attention.'". These language changes were expanded upon during the interview phase. 
 
 #### Aesthetics - 9.5
 Many of the respondents replied that the presentation was "beautiful", with one noting that "It looks like those magazine articles the New York Times does". One responded that "The green is serene and perfect for the topic". In regards to the photos, one noted "The images are great! They didn't distract me from the presentation and they're very pretty, high quality images that are really cool to look at when I do notice them."
@@ -90,6 +93,7 @@ The overwhelming response was that the data was presented in interesting and eas
 #### Data Visualizations - Engagement 8.5
 There were few notes on this section... which I might attribute a bit to question fatigue. Overall, they felt the message titles made it easy to share some of the visualizations outside of the presentation, but didn't know when they'd actually want to. One said "The presentation overall is very shareable".
 
+## Next Steps
 
 
 
