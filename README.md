@@ -18,5 +18,5 @@ Below is a sample of my work.
 ### [Part I: Creating the Wireframe](/FinalProject.md)
 ### [Part II: Building the Story](/FinalProject2.md)
 ### [Part III: Creating the Final Publication](/FinalProject3.md)
-### <a href="https://carnegiemellon.shorthandstories.com/the-planet-needs-you/index.html"> Published Version: "The Planet Needs You...To Take Pictures of Bugs</a>
+### <a href="https://carnegiemellon.shorthandstories.com/the-planet-needs-you/index.html"> Published Version: "The Planet Needs You...To Take Pictures of Bugs"</a>
 
