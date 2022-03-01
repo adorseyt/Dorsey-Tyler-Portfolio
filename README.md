@@ -17,4 +17,5 @@ Below is a sample of my work.
 ## Final Project: 
 ### [Part I: Final Project Wireframe](/FinalProject.md)
 ### [Part II: Final Project User Research](/FinalProject2.md)
+### [Part III: Creating the Final Publication](/FinalProject3.md)
 
