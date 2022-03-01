@@ -15,7 +15,8 @@ Below is a sample of my work.
 ## Assignment 3 & 4: [Critique by Design Exercise](/CritiqueByDesign.md)
 
 ## Final Project: 
-### [Part I: Final Project Wireframe](/FinalProject.md)
-### [Part II: Final Project User Research](/FinalProject2.md)
+### [Part I: Creating the Wireframe](/FinalProject.md)
+### [Part II: Building the Story](/FinalProject2.md)
 ### [Part III: Creating the Final Publication](/FinalProject3.md)
+### <a href="https://carnegiemellon.shorthandstories.com/the-planet-needs-you/index.html"> Published Version: "The Planet Needs You...To Take Pictures of Bugs</a>
 
