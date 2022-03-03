@@ -12,10 +12,10 @@ What was created is available here: <a href="https://preview.shorthand.com/mTLdF
 #### Focusing the Audience
 When seeking to define my core audience, I focused on prior knowledge, agency, and want. I'm reaching out to readers who are already well-informed about the evidence behind Anthropogenic climate change and feel strongly about the future of the planet. They may have a background or interest in biology, ecology, conservation, and environmental protection. They fall into two major personas, abstracted here:
 
-<i><b>Clint:</b> Boomer. Participated in the environmental movements of the 1960-70's. Enjoys hiking and bird-watching. Studied biology at the university level. Feels angry about the lack of apparent awareness among his friends.
+<i><b>Clint:</b> Boomer. Participated in the environmental movements of the 1960-70's. Enjoys hiking and bird-watching. Studied biology at the university level. Feels angry about the lack of apparent awareness among his friends.</i>
 
-<b>Claire:</b> Millennial. Very in-tune with news related to climate change and caters their social media content towards this subject. Enjoys rock climbing and reading. Studied business at the university level, but listens to podcasts surrounding ecology and environmentalism. Feels overwhelmed about the scope of the problem, but feels a sense of comradery with their peers.
-</i>
+<i><b>Claire:</b> Millennial. Very in-tune with news related to climate change and caters their social media content towards this subject. Enjoys rock climbing and reading. Studied business at the university level, but listens to podcasts surrounding ecology and environmentalism. Feels overwhelmed about the scope of the problem, but feels a sense of comradery with their peers.</i>
+
 
 It should be noted that neither group has explicit interest or prior knowledge in insects specifically. Both Clint and Claire tend to focus on the big picture of envrionmentalism and conservation, and may find insects creepy or insignificant. 
 
